@@ -24,7 +24,7 @@
        - python -m pip install psutil
     6. License : This Project is open source and free to use for educational purposes.
 
-  * How To Run :
+* How To Run :
     - Open project on VS code or PyCharm
     - Click on Main.py File and Run the file
     - Output Will Display on the Main Screen
